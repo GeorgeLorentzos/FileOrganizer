@@ -1,6 +1,6 @@
 # FileOrganizer
 
-A simple Python script to automatically organize files in a directory into folders by file type.
+- A simple Python script to automatically organize files in a directory into folders by file type.
 
 ## Features
 
